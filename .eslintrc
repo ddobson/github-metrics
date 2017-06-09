@@ -1,0 +1,18 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "jest/globals": true
+  },
+  "plugins": [
+    "jest"
+  ],
+  "rules": {
+    "func-names": [2, "as-needed"],
+    "semi": [2, "never"],
+    "space-before-function-paren": [2, "never"],
+    "react/jsx-filename-extension": [0, { extentions: [".js"] }]
+  }
+}
