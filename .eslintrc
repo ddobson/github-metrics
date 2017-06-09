@@ -13,6 +13,7 @@
     "func-names": [2, "as-needed"],
     "semi": [2, "never"],
     "space-before-function-paren": [2, "never"],
-    "react/jsx-filename-extension": [0, { extentions: [".js"] }]
+    "react/jsx-filename-extension": [0, { extentions: [".js"] }],
+    "react/prop-types": 0
   }
 }
