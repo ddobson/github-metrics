@@ -6,7 +6,7 @@ import registerServiceWorker from './registerServiceWorker'
 import initializeFirebase from './services/firebase'
 
 // Components
-import App from './components/App'
+import App from './containers/App'
 
 // Styles
 import './styles/index.scss'
